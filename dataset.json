@@ -1,0 +1,384 @@
+{
+    "greeting": {
+        "patterns": ["hi", "hi", "hey", "how are you", "is anyone there?", "hello", "good day", "whats up"],
+        "responses": ["Hello! I'm Balance Buddy, your yoga assistant. How may I help you?"]
+    },
+    "Health Issue": {
+        "patterns": ["i have a health issue", "i need a remedy for my health issue", "i am sick", "i am not well", "i am unwell"],
+        "responses": ["Please tell me in detail about the issue that you are facing, so that I can provide you with the right asanas to be followed."]
+    },
+    "goodbye": {
+        "patterns": ["bye", "see you later", "goodbye", "i am leaving", "have a good day", "i gotta go now", "i gotta rush now"],
+        "responses": ["Sad to see you go :(", "Talk to you later", "Goodbye! Have a nice day."]
+    },
+    "Love" :{
+        "patterns":["i love you"],
+        "responses":["Love you too"]
+    },
+    "Asthma": {
+        "patterns": [
+            "i have asthma",
+            "i am having an asthma attack",
+            "i need help with asthma",
+            "how can i manage my asthma?",
+            "i'm struggling to breathe because of asthma",
+            "what yoga can i do for asthma?",
+            "yoga for asthma relief",
+            "can yoga help asthma?",
+            "i'm wheezing, what should i do?",
+            "how to improve breathing with yoga?",
+            "asthma breathing exercises",
+            "help with asthma symptoms",
+            "can yoga reduce asthma symptoms?",
+            "i have trouble breathing, any yoga poses?",
+            "asthma attack relief with yoga",
+            "my asthma is acting up, what yoga can i do?",
+            "breathing problems due to asthma",
+            "ways to manage asthma with yoga"
+        ],
+        "responses": [
+                "I'm sorry to hear that you're dealing with asthma. Here are some yoga asanas that may help manage asthma:\n1. Baddha Konasana (Bound Angle Pose)\n2. Dhanurasana (Bow Pose)\n3. Setu Bandhasana (Bridge Pose)\n4. Ustrasana (Camel Pose)\n5. Marjaryasana (Cat Pose)\n6. Bhujangasana (Cobra Pose)\n7. Bitilasana (Cow Pose)\n8. Ardha Pincha Mayurasana (Dolphin Pose)\n9. Garudasana (Eagle Pose)\n10. Sukhasana (Easy Pose)\n11. Virasana (Hero Pose)\n12. Viparita Karani (Legs Up the Wall Pose)\n13. Marichyasana III (Pose Dedicated to the Sage Marichi III)\n14. Pasasana (Rope Pose)\n15. Supta Virasana (Reclining Hero Pose)\n16. Parivrtta Trikonasana (Revolved Triangle Pose)\n17. Salamba Bhujangasana (Sphinx Pose)\n18. Uttanasana (Standing Forward Bend)\n19. Salamba Sirsasana (Supported Headstand)\n20. Salamba Sarvangasana (Supported Shoulderstand)\n21. Urdhva Dhanurasana (Wheel Pose | Upward-Facing Bow Pose)\n22. Urdhva Hastasana (Upward Salute)\n23. Urdhva Mukha Svanasana (Upward-Facing Dog Pose)\n\nCommit to practicing at least 3 of these asanas every day. Regular practice can help improve your breathing and overall lung capacity. Stay positive and dedicated, and you will likely notice improvements in your asthma symptoms over time. Keep going, and take good care of yourself!"
+            ]
+        },
+        "Carpal Tunnel Syndrome": {
+            "patterns": [
+                "i have carpal tunnel syndrome",
+                "i'm experiencing wrist pain",
+                "my wrist hurts",
+                "i need help with carpal tunnel",
+                "how can i relieve my carpal tunnel syndrome?",
+                "what yoga can i do for carpal tunnel?",
+                "yoga for carpal tunnel relief",
+                "can yoga help carpal tunnel syndrome?",
+                "i'm having wrist pain, what should i do?",
+                "how to improve wrist pain with yoga?",
+                "carpal tunnel exercises",
+                "help with carpal tunnel symptoms",
+                "can yoga reduce carpal tunnel symptoms?",
+                "i have trouble with my wrists, any yoga poses?",
+                "carpal tunnel relief with yoga",
+                "my carpal tunnel is acting up, what yoga can i do?",
+                "wrist pain due to carpal tunnel",
+                "ways to manage carpal tunnel with yoga"
+            ],
+            "responses": [
+                    "I'm sorry to hear that you're dealing with carpal tunnel syndrome. Here are some yoga asanas that may help alleviate the symptoms:\n1. Balasana (Child's Pose)\n2. Ardha Pincha Mayurasana (Dolphin Pose)\n3. Uttana Shishosana (Extended Puppy Pose)\n4. Malasana (Garland Pose or Squat)\n5. Virabhadrasana II (Warrior II Pose)\n6. Upavistha Konasana (Wide-Angled Seated Forward Bend)\n7. Phalakasana (Forearm Plank or Dolphin Plank Pose)\n8. Bharadvajasana (Bharadvaja's Twist)\n\nRemember to practice at least 3 of these asanas every day. By incorporating these poses into your routine, you can improve your wrist strength and flexibility over time. Stay consistent and positive, and you should start to notice relief and improvement soon!"
+                ]
+        },
+        "Back Pain": {
+            "patterns": [
+                "i have back pain",
+                "i'm experiencing back pain",
+                "my back hurts",
+                "i need help with back pain",
+                "how can i relieve my back pain?",
+                "what yoga can i do for back pain?",
+                "yoga for back pain relief",
+                "can yoga help back pain?",
+                "i'm having back pain, what should i do?",
+                "how to improve back pain with yoga?",
+                "back pain exercises",
+                "help with back pain symptoms",
+                "can yoga reduce back pain symptoms?",
+                "i have trouble with my back, any yoga poses?",
+                "back pain relief with yoga",
+                "my back pain is acting up, what yoga can i do?",
+                "ways to manage back pain with yoga"
+            ],
+            "responses": [
+                    "I'm sorry to hear that you're dealing with back pain. Here are some yoga asanas that may help alleviate back pain:\n1. Baddha Konasana (Bound Angle Pose)\n2. Dhanurasana (Bow Pose)\n3. Setu Bandhasana (Bridge Pose)\n4. Ustrasana (Camel Pose)\n5. Marjaryasana (Cat Pose)\n6. Bhujangasana (Cobra Pose)\n7. Bitilasana (Cow Pose)\n8. Ardha Pincha Mayurasana (Dolphin Pose)\n9. Garudasana (Eagle Pose)\n10. Sukhasana (Easy Pose)\n11. Virasana (Hero Pose)\n12. Viparita Karani (Legs Up the Wall Pose)\n13. Marichyasana III (Pose Dedicated to the Sage Marichi III)\n14. Pasasana (Rope Pose)\n15. Supta Virasana (Reclining Hero Pose)\n16. Parivrtta Trikonasana (Revolved Triangle Pose)\n17. Salamba Bhujangasana (Sphinx Pose)\n18. Uttanasana (Standing Forward Bend)\n19. Salamba Sirsasana (Supported Headstand)\n20. Salamba Sarvangasana (Supported Shoulderstand)\n21. Urdhva Dhanurasana (Wheel Pose | Upward-Facing Bow Pose)\n22. Urdhva Hastasana (Upward Salute)\n23. Urdhva Mukha Svanasana (Upward-Facing Dog Pose)\n\nCommit to practicing at least 3 of these asanas every day. Consistency is key, and with time, you should see improvement. Keep up the good work, and remember that your dedication will lead to a stronger and healthier back!"
+                ]
+        },
+        
+        "Digestion": {
+            "patterns": [
+                "which yoga poses help with digestion?",
+                "can yoga improve digestion?",
+                "what are the best asanas for digestion?",
+                "how can yoga assist in digestive health?",
+                "are there specific yoga exercises for better digestion?",
+                "what yoga practices are beneficial for digestion?",
+                "can certain poses alleviate digestive issues?",
+                "looking for yoga poses to help with digestion.",
+                "what yoga routines are good for digestive health?",
+                "can you suggest yoga poses that benefit digestion?"
+            ],
+            "responses": [
+                    "Here are some yoga asanas that can help with digestion:\n1. Bharadvajasana (Bharadvaja’s Twist)\n2. Padangusthasana (Big Toe Pose)\n3. Navasana (Boat Pose)\n4. Bhujangasana (Cobra Pose)\n5. Adho Mukha Svanasana (Downward-Facing Dog Pose)\n6. Utthita Parsvakonasana (Extended Side Angle Pose)\n7. Utthita Trikonasana (Extended Triangle Pose)\n8. Matsyasana (Fish Pose)\n9. Ardha Matsyendrasana (Half Lord of the Fishes Pose)\n10. Ardha Chandrasana (Half Moon Pose)\n11. Janu Sirsasana (Head-to-Knee Pose)\n12. Virasana (Hero Pose)\n13. Krounchasana (Heron Pose)\n14. Anjaneyasana (High Lunge)\n15. Parsvottanasana (Pyramid Pose | Intense Side Stretch Pose)\n16. Viparita Karani (Legs Up the Wall Pose)\n17. Salabhasana (Locust Pose)\n18. Marichyasana III (Pose Dedicated to the Sage Marichi III)\n19. Pasasana (Rope Pose)\n20. Marichyasana I (Pose Dedicated to the Sage Marichi I)\n21. Supta Padangusthasana I (Reclining Hand-to-Big-Toe Pose I)\n22. Supta Virasana (Reclining Hero Pose)\n\nPracticing these asanas regularly can aid in improving your digestion. Aim to practice at least 3 of these poses every day. With consistent practice, you should notice improvements in your digestive health. Stay positive and dedicated to your practice, and you'll soon feel the benefits. Your journey towards better digestion starts here!"
+                ]
+        },
+        "Anxiety": {
+            "patterns": [
+                "i am feeling anxious",
+                "i am feeling stressed",
+                "i am undergoing a lot of pressure",
+                "how to stop feeling anxious always?",
+                "i have anxiety, what should i do?",
+                "can yoga help with anxiety?",
+                "yoga for anxiety relief",
+                "what yoga can i do for stress?",
+                "i'm feeling overwhelmed, any yoga poses?",
+                "how to calm anxiety with yoga?",
+                "anxiety exercises",
+                "help with anxiety symptoms",
+                "ways to manage anxiety with yoga",
+                "my anxiety is acting up, what yoga can i do?",
+                "how to relieve stress with yoga?"
+            ],
+            "responses": [
+                    "I'm sorry to hear that you're feeling anxious. Here are some yoga asanas that you can follow to help manage your anxiety:\n1. Baddha Konasana (Bound Angle Pose)\n2. Setu Bandhasana (Bridge Pose)\n3. Savasana (Corpse Pose)\n4. Ardha Pincha Mayurasana (Dolphin Pose)\n5. Adho Mukha Svanasana (Downward-Facing Dog Pose)\n6. Janu Sirsasana (Head-to-Knee Pose)\n7. Virasana (Hero Pose)\n8. Viparita Karani (Legs Up the Wall Pose)\n9. Supta Padangusthasana (Reclining Hand-to-Big-Toe Pose)\n10. Supta Virasana (Reclining Hero Pose)\n11. Paschimottanasana (Seated Forward Bend)\n12. Uttanasana (Standing Forward Bend)\n\nRemember that there is nothing to feel anxious about. Be bold and confident in whatever you do. Follow at least 3 of the above-listed asanas every day for a faster recovery. Stay positive, and with consistent practice, you will find peace and calm. You've got this!"
+                ]
+        },
+        "Depression": {
+            "patterns": [
+                "i am feeling depressed",
+                "i'm experiencing depression",
+                "i feel down",
+                "i need help with depression",
+                "how can i relieve my depression?",
+                "what yoga poses help with depression?",
+                "can yoga improve my mood?",
+                "what are the best asanas for depression?",
+                "how can yoga assist in improving mood?",
+                "are there specific yoga exercises for depression?",
+                "what yoga practices are beneficial for depression?",
+                "can certain poses alleviate depression symptoms?",
+                "looking for yoga poses to help with depression.",
+                "what yoga routines are good for mental health?",
+                "can you suggest yoga poses that benefit depression?"
+            ],
+            "responses": [
+                    "I'm sorry to hear that you're dealing with depression. Here are some yoga asanas that may help improve your mood and alleviate symptoms of depression:\n1. Baddha Konasana (Bound Angle Pose)\n2. Setu Bandhasana (Bridge Pose)\n3. Savasana (Corpse Pose)\n4. Phalakasana (Forearm Plank or Dolphin Plank Pose)\n5. Ardha Pincha Mayurasana (Dolphin Pose)\n6. Sukhasana (Easy Pose)\n7. Uttana Shishosana (Extended Puppy Pose)\n8. Agnistambhasana (Fire Log Pose)\n9. Adho Mukha Vrksasana (Handstand)\n10. Pincha Mayurasana (Feathered Peacock Pose or Forearm Balance)\n11. Viparita Karani (Legs Up the Wall Pose)\n12. Supta Baddha Konasana (Reclining Bound Angle Pose)\n13. Paschimottanasana (Seated Forward Bend)\n14. Salamba Sarvangasana (Supported Shoulderstand)\n15. Urdhva Dhanurasana (Wheel Pose or Upward-Facing Bow Pose)\n16. Urdhva Mukha Svanasana (Upward-Facing Dog Pose)\n17. Camatkarasana (Wild Thing)\n18. Prasarita Padottanasana (Wide-Legged Standing Forward Bend)\n\nRemember to practice at least 3 of these asanas every day. Consistent practice can help elevate your mood and bring a sense of calm and balance to your life. Keep believing in yourself and your journey towards better mental health. Positive changes are just around the corner!"
+                ]
+        },
+        "Not Being Able to Stay Calm": {
+            "patterns": [
+                "i can't stay calm",
+                "i'm feeling restless",
+                "i need help calming down",
+                "how can i stay calm?",
+                "what yoga poses help with calmness?",
+                "can yoga help me relax?",
+                "what are the best asanas for staying calm?",
+                "how can yoga assist in calming down?",
+                "are there specific yoga exercises for relaxation?",
+                "what yoga practices are beneficial for calmness?",
+                "can certain poses help me stay calm?",
+                "looking for yoga poses to help me relax.",
+                "what yoga routines are good for relaxation?",
+                "can you suggest yoga poses that benefit calmness?"
+            ],
+            "responses": [
+                    "I'm sorry to hear that you're having trouble staying calm. Here are some yoga asanas that may help you find relaxation and peace:\n1. Balasana (Child's Pose)\n2. Savasana (Corpse Pose)\n3. Sukhasana (Easy Pose)\n4. Janu Sirsasana (Head-to-Knee Pose)\n5. Viparita Karani (Legs Up the Wall Pose)\n6. Supta Baddha Konasana (Reclining Bound Angle Pose)\n7. Supta Padangusthasana (Reclining Hand-to-Big-Toe Pose)\n8. Supta Virasana (Reclining Hero Pose)\n9. Paschimottanasana (Seated Forward Bend)\n10. Uttanasana (Standing Forward Bend)\n11. Ardha Uttanasana (Standing Half Forward Bend)\n12. Prasarita Padottanasana (Wide-Legged Standing Forward Bend)\n\nPracticing at least 3 of these asanas every day can help you stay calm and composed. Consistent practice will help you develop a sense of inner peace and tranquility. Keep up with your practice, and you'll find it easier to remain calm and centered in all situations. Remember, calmness is a journey, and each step you take brings you closer to a peaceful state of mind."
+                ]
+        },
+        "Fatigue": {
+            "patterns": [
+                "i am feeling fatigued",
+                "i'm experiencing fatigue",
+                "i feel tired",
+                "i need help with fatigue",
+                "how can i relieve my fatigue?",
+                "what yoga poses help with fatigue?",
+                "can yoga improve my energy levels?",
+                "what are the best asanas for fatigue?",
+                "how can yoga assist in reducing fatigue?",
+                "are there specific yoga exercises for fatigue?",
+                "what yoga practices are beneficial for fatigue?",
+                "can certain poses alleviate fatigue symptoms?",
+                "looking for yoga poses to help with fatigue.",
+                "what yoga routines are good for boosting energy?",
+                "can you suggest yoga poses that benefit fatigue?"
+            ],
+            "responses": [
+                    "I'm sorry to hear that you're dealing with fatigue. Here are some yoga asanas that may help boost your energy and alleviate symptoms of fatigue:\n1. Padangusthasana (Big Toe Pose)\n2. Baddha Konasana (Bound Angle Pose)\n3. Dhanurasana (Bow Pose)\n4. Ustrasana (Camel Pose)\n5. Balasana (Child's Pose)\n6. Bhujangasana (Cobra Pose)\n7. Savasana (Corpse Pose)\n8. Ardha Pincha Mayurasana (Dolphin Pose)\n9. Matsyasana (Fish Pose)\n10. Adho Mukha Svanasana (Downward-Facing Dog Pose)\n11. Ardha Matsyendrasana (Half Lord of the Fishes Pose)\n12. Ardha Chandrasana (Half Moon Pose)\n13. Ananda Balasana (Happy Baby Pose)\n14. Janu Sirsasana (Head-to-Knee Pose)\n15. Salabhasana (Locust Pose)\n16. Marichyasana III (Pose Dedicated to the Sage Marichi III)\n17. Halasana (Plow Pose)\n18. Parivrtta Janu Sirsasana (Revolved Head-to-Knee Pose)\n19. Salamba Bhujangasana (Sphinx Pose)\n20. Paschimottanasana (Seated Forward Bend)\n21. Uttanasana (Standing Forward Bend)\n22. Salamba Sarvangasana (Supported Shoulder Stand)\n23. Purvottanasana (Reverse Plank or Upward Plank Pose)\n24. Urdhva Hastasana (Upward Salute)\n\nCommit to practicing at least 3 of these asanas every day. Consistent practice can help elevate your energy levels and reduce fatigue. Stay dedicated to your practice, and you'll find yourself feeling more refreshed and revitalized. Your journey to better energy and health is well within reach!"
+                ]
+        },
+        "Boosting Energy": {
+            "patterns": [
+                "which yoga poses help with energy?",
+                "can yoga improve my energy levels?",
+                "what are the best asanas for boosting energy?",
+                "how can yoga assist in increasing energy?",
+                "are there specific yoga exercises for better energy?",
+                "what yoga practices are beneficial for feeling energetic?",
+                "can certain poses alleviate low energy issues?",
+                "looking for yoga poses to help with energy levels.",
+                "what yoga routines are good for improving energy?",
+                "can you suggest yoga poses that boost energy?"
+            ],
+            "responses": [
+                    "If you're looking to boost your energy levels, here are some yoga asanas that may help:\n1. Setu Bandhasana (Bridge Pose)\n2. Ustrasana (Camel Pose)\n3. Bhujangasana (Cobra Pose)\n4. Adho Mukha Svanasana (Downward-Facing Dog Pose)\n5. Ardha Matsyendrasana (Half Lord of the Fishes Pose)\n6. Kapotasana (King Pigeon Pose)\n7. Natarajasana (Dancer Pose or Lord of the Dance Pose)\n8. Rajakapotasana (Pigeon Pose)\n9. Salamba Bhujangasana (Sphinx Pose)\n10. Urdhva Dhanurasana (Wheel Pose or Upward-Facing Bow Pose)\n11. Urdhva Mukha Svanasana (Upward-Facing Dog Pose)\n\nPracticing at least 3 of these asanas every day can help you feel more energetic and revitalized. Consistent practice will enhance your vitality and overall well-being. Stay committed to your yoga routine, and you'll notice a significant boost in your energy levels. Your journey towards a more energetic life starts here!"
+                ]
+        },
+        "High Blood Pressure": {
+            "patterns": [
+                "which yoga poses help with high blood pressure?",
+                "can yoga reduce high blood pressure?",
+                "what are the best asanas for high blood pressure?",
+                "how can yoga assist in lowering blood pressure?",
+                "are there specific yoga exercises for high blood pressure?",
+                "what yoga practices are beneficial for managing blood pressure?",
+                "can certain poses alleviate high blood pressure?",
+                "looking for yoga poses to help with high blood pressure.",
+                "what yoga routines are good for reducing blood pressure?",
+                "can you suggest yoga poses that lower blood pressure?"
+            ],
+            "responses": [
+                    "If you're looking to manage high blood pressure, here are some yoga asanas that may help:\n1. Baddha Konasana (Bound Angle Pose)\n2. Setu Bandhasana (Bridge Pose)\n3. Savasana (Corpse Pose)\n4. Ardha Pincha Mayurasana (Dolphin Pose)\n5. Virasana (Hero Pose)\n6. Janu Sirsasana (Head-to-Knee Pose)\n7. Adho Mukha Svanasana (Downward-Facing Dog Pose)\n8. Viparita Karani (Legs Up the Wall Pose)\n9. Supta Padangusthasana I (Reclining Hand-to-Big-Toe Pose I)\n10. Supta Virasana (Reclining Hero Pose)\n11. Paschimottanasana (Seated Forward Bend)\n12. Uttanasana (Standing Forward Bend)\n\nPracticing at least 3 of these asanas every day can help in managing and reducing high blood pressure. Regular yoga practice can promote relaxation and improve your overall cardiovascular health. Stay consistent with your practice, and you'll see positive changes in your blood pressure levels. Remember, your dedication to a healthy lifestyle is the key to managing high blood pressure effectively!"
+                ]
+        },
+        "Insomnia": {
+            "patterns": [
+                "which yoga poses help with insomnia?",
+                "can yoga improve my sleep?",
+                "what are the best asanas for insomnia?",
+                "how can yoga assist in better sleep?",
+                "are there specific yoga exercises for insomnia?",
+                "what yoga practices are beneficial for better sleep?",
+                "can certain poses alleviate insomnia?",
+                "looking for yoga poses to help with insomnia.",
+                "what yoga routines are good for improving sleep?",
+                "can you suggest yoga poses that help with insomnia?"
+            ],
+            "responses": [
+                    "If you're looking to manage insomnia, here are some yoga asanas that may help improve your sleep:\n1. Padangusthasana (Big Toe Pose)\n2. Setu Bandhasana (Bridge Pose)\n3. Marjaryasana (Cat Pose)\n4. Savasana (Corpse Pose)\n5. Bitilasana (Cow Pose)\n6. Ardha Pincha Mayurasana (Dolphin Pose)\n7. Adho Mukha Svanasana (Downward-Facing Dog Pose)\n8. Sukhasana (Easy Pose)\n9. Uttana Shishosana (Extended Puppy Pose)\n10. Agnistambhasana (Fire Log Pose)\n11. Janu Sirsasana (Head-to-Knee Pose)\n12. Halasana (Plow Pose)\n13. Supta Virasana (Reclining Hero Pose)\n14. Viparita Karani (Legs Up the Wall Pose)\n15. Parivrtta Janu Sirsasana (Revolved Head-to-Knee Pose)\n16. Paschimottanasana (Seated Forward Bend)\n17. Uttanasana (Standing Forward Bend)\n18. Salamba Sirsasana (Supported Headstand)\n19. Salamba Sarvangasana (Supported Shoulder Stand)\n\nPracticing at least 3 of these asanas every day can help you relax and improve your sleep quality. Consistent practice will calm your mind and body, making it easier to fall asleep and stay asleep. Embrace your yoga routine, and you'll soon experience the restful nights you deserve. Your journey towards better sleep and overall well-being begins now!"
+                ]
+        },
+        "Menopause": {
+            "patterns": [
+                "which yoga poses help with menopause?",
+                "can yoga ease menopause symptoms?",
+                "what are the best asanas for menopause?",
+                "how can yoga assist in managing menopause?",
+                "are there specific yoga exercises for menopause relief?",
+                "what yoga practices are beneficial for menopause?",
+                "can certain poses alleviate menopause symptoms?",
+                "looking for yoga poses to help with menopause.",
+                "what yoga routines are good for managing menopause?",
+                "can you suggest yoga poses that help with menopause?"
+            ],
+            "responses": [
+                    "If you're looking to manage menopause symptoms, here are some yoga asanas that may help:\n1. Padangusthasana (Big Toe Pose)\n2. Baddha Konasana (Bound Angle Pose)\n3. Setu Bandhasana (Bridge Pose)\n4. Utthita Trikonasana (Extended Triangle Pose)\n5. Virasana (Hero Pose)\n6. Janu Sirsasana (Head-to-Knee Pose)\n7. Viparita Karani (Legs Up the Wall Pose)\n8. Halasana (Plow Pose)\n9. Supta Baddha Konasana (Reclining Bound Angle Pose)\n10. Paschimottanasana (Seated Forward Bend)\n11. Salamba Sirsasana (Supported Headstand)\n12. Salamba Sarvangasana (Supported Shoulderstand)\n\nPracticing at least 3 of these asanas every day can help alleviate menopause symptoms and promote overall well-being. Consistent yoga practice can balance your hormones, reduce stress, and improve your quality of life during this transition. Stay committed to your yoga routine, and you'll find the relief and stability you need. Embrace this journey with positivity and strength!"
+                ]
+        },
+        "Flexibility": {
+            "patterns": [
+                "which yoga poses help with flexibility?",
+                "can yoga improve my flexibility?",
+                "what are the best asanas for increasing flexibility?",
+                "how can yoga assist in improving flexibility?",
+                "are there specific yoga exercises for better flexibility?",
+                "what yoga practices are beneficial for flexibility?",
+                "can certain poses alleviate flexibility issues?",
+                "looking for yoga poses to help with flexibility.",
+                "what yoga routines are good for improving flexibility?",
+                "can you suggest yoga poses that enhance flexibility?"
+            ],
+            "responses": [
+                    "If you're looking to improve flexibility, here are some yoga asanas that may help:\n1. Padangusthasana (Big Toe Pose)\n2. Baddha Konasana (Bound Angle Pose)\n3. Balasana (Child’s Pose)\n4. Gomukhasana (Cow Face Pose)\n5. Adho Mukha Svanasana (Downward-Facing Dog Pose)\n6. Uttana Shishosana (Extended Puppy Pose)\n7. Utthita Trikonasana (Extended Triangle Pose)\n8. Agnistambhasana (Fire Log Pose)\n9. Malasana (Garland Pose or Squat)\n10. Ardha Bhekasana (Half Frog Pose)\n11. Janu Sirsasana (Head-to-Knee Pose)\n12. Parsvottanasana (Pyramid Pose | Intense Side Stretch Pose)\n13. Rajakapotasana (King Pigeon Pose)\n14. Natarajasana (Dancer Pose | Lord of the Dance Pose)\n15. Pasasana (Rope Pose)\n16. Kapotasana (Pigeon Pose)\n17. Eka Pada Rajakapotasana II (One-Legged King Pigeon Pose II)\n18. Marichyasana I (Pose Dedicated to the Sage Marichi I)\n19. Supta Padangusthasana I (Reclining Hand-to-Big-Toe Pose I)\n20. Supta Virasana (Reclining Hero Pose)\n21. Parivrtta Trikonasana (Revolved Triangle Pose)\n22. Paschimottanasana (Seated Forward Bend)\n23. Anantasana (Side-Reclining Leg Lift)\n24. Uttanasana (Standing Forward Bend Pose)\n\nPracticing at least 3 of these asanas every day can greatly enhance your flexibility. With consistent practice, you'll notice improvements in your range of motion and overall physical comfort. Keep at it, and soon you'll experience the benefits of a more flexible body and a more peaceful mind. Your journey towards better flexibility and well-being starts today!"
+                ]
+        },
+        "Menstruation": {
+            "patterns": [
+                "which yoga poses help with menstruation?",
+                "can yoga ease menstrual symptoms?",
+                "what are the best asanas for menstruation?",
+                "how can yoga assist in managing menstrual pain?",
+                "are there specific yoga exercises for menstruation relief?",
+                "what yoga practices are beneficial during menstruation?",
+                "can certain poses alleviate menstrual discomfort?",
+                "looking for yoga poses to help with menstruation.",
+                "what yoga routines are good for managing menstrual symptoms?",
+                "can you suggest yoga poses that help with menstrual pain?"
+            ],
+            "responses": [
+                    "If you're looking to manage menstrual symptoms, here are some yoga asanas that may help:\n1. Baddha Konasana (Bound Angle Pose)\n2. Dhanurasana (Bow Pose)\n3. Setu Bandhasana (Bridge Pose)\n4. Ustrasana (Camel Pose)\n5. Ardha Pincha Mayurasana (Dolphin Pose)\n6. Adho Mukha Svanasana (Downward-Facing Dog Pose)\n7. Utthita Parsvakonasana (Extended Side Angle Pose)\n8. Matsyasana (Fish Pose)\n9. Ardha Matsyendrasana (Half Lord of the Fishes Pose)\n10. Ardha Chandrasana (Half Moon Pose)\n11. Janu Sirsasana (Head-to-Knee Pose)\n12. Viparita Karani (Legs Up the Wall Pose)\n13. Padmasana (Lotus Pose)\n14. Marichyasana III (Pose Dedicated to the Sage Marichi III)\n15. Pasasana (Rope Pose)\n16. Paschimottanasana (Seated Forward Bend)\n17. Supta Padangusthasana I (Reclining Hand-to-Big-Toe Pose I)\n18. Supta Baddha Konasana (Reclining Bound Angle Pose)\n\nPracticing at least 3 of these asanas every day can help alleviate menstrual discomfort and promote overall well-being. Consistent yoga practice can balance your hormones, reduce stress, and improve your quality of life during menstruation. Stay committed to your yoga routine, and you'll find the relief and stability you need. Embrace this journey with positivity and strength!"
+                ]
+        },
+        "Neck Pain": {
+            "patterns": [
+                "which yoga poses help with neck pain?",
+                "can yoga ease neck pain?",
+                "what are the best asanas for neck pain?",
+                "how can yoga assist in managing neck pain?",
+                "are there specific yoga exercises for neck pain relief?",
+                "what yoga practices are beneficial for neck pain?",
+                "can certain poses alleviate neck discomfort?",
+                "looking for yoga poses to help with neck pain.",
+                "what yoga routines are good for managing neck pain?",
+                "can you suggest yoga poses that help with neck pain?"
+            ],
+            "responses": [
+                    "If you're looking to manage neck pain, here are some yoga asanas that may help:\n1. Marjaryasana (Cat Pose)\n2. Balasana (Child's Pose)\n3. Bharadvajasana (Bharadvaja's Twist)\n4. Savasana (Corpse Pose)\n5. Bitilasana (Cow Pose)\n6. Uttana Shishosana (Extended Puppy Pose)\n7. Utthita Trikonasana (Extended Triangle Pose)\n\nPracticing at least 3 of these asanas every day can help alleviate neck pain and promote overall well-being. Consistent yoga practice can improve flexibility, reduce stress, and enhance your quality of life. Stay committed to your yoga routine, and you'll find the relief and stability you need. Embrace this journey with positivity and strength!"
+                ]
+        },
+        "Headaches": {
+            "patterns": [
+                "which yoga poses help with headaches?",
+                "can yoga relieve headaches?",
+                "what are the best asanas for headache relief?",
+                "how can yoga assist in managing headaches?",
+                "are there specific yoga exercises for headaches?",
+                "what yoga practices are beneficial for headache relief?",
+                "can certain poses alleviate headaches?",
+                "looking for yoga poses to help with headaches.",
+                "what yoga routines are good for headache relief?",
+                "can you suggest yoga poses that help with headaches?"
+            ],
+            "responses": [
+                    "If you're looking to manage headaches, here are some yoga asanas that may help:\n1. Padangusthasana (Big Toe Pose)\n2. Setu Bandhasana (Bridge Pose)\n3. Savasana (Corpse Pose)\n4. Ardha Pincha Mayurasana (Dolphin Pose)\n5. Adho Mukha Svanasana (Downward-Facing Dog Pose)\n6. Uttana Shishosana (Extended Puppy Pose)\n7. Agnistambhasana (Fire Log Pose)\n8. Janu Sirsasana (Head-to-Knee Pose)\n9. Viparita Karani (Legs Up the Wall Pose)\n10. Halasana (Plow Pose)\n11. Supta Virasana (Reclining Hero Pose)\n12. Parivrtta Janu Sirsasana (Revolved Head-to-Knee Pose)\n13. Paschimottanasana (Seated Forward Bend)\n14. Prasarita Padottanasana (Wide-Legged Standing Forward Bend)\n\nPracticing at least 3 of these asanas every day can help alleviate headaches and promote overall well-being. Consistent yoga practice can reduce tension, improve circulation, and enhance your quality of life. Stay committed to your yoga routine, and you'll find the relief and stability you need. Embrace this journey with positivity and strength!"
+                ]
+        },
+        "Osteoporosis": {
+            "patterns": [
+                "which yoga poses help with osteoporosis?",
+                "can yoga help manage osteoporosis?",
+                "what are the best asanas for osteoporosis?",
+                "how can yoga assist in managing osteoporosis?",
+                "are there specific yoga exercises for osteoporosis?",
+                "what yoga practices are beneficial for osteoporosis?",
+                "can certain poses alleviate osteoporosis symptoms?",
+                "looking for yoga poses to help with osteoporosis.",
+                "what yoga routines are good for managing osteoporosis?",
+                "can you suggest yoga poses that help with osteoporosis?"
+            ],
+            "responses": [
+                    "If you're looking to manage osteoporosis, here are some yoga asanas that may help:\n1. Padangusthasana (Big Toe Pose)\n2. Setu Bandhasana (Bridge Pose)\n3. Ardha Pincha Mayurasana (Dolphin Pose)\n4. Phalakasana (Forearm Plank or Dolphin Plank Pose)\n5. Adho Mukha Svanasana (Downward-Facing Dog Pose)\n6. Utthita Padangusthasana (Extended Hand-to-Big-Toe Pose)\n7. Utthita Parsvakonasana (Extended Side Angle Pose)\n8. Utthita Trikonasana (Extended Triangle Pose)\n9. Ardha Chandrasana (Half Moon Pose)\n10. Parivrtta Parsvakonasana (Revolved Side Angle Pose)\n11. Uttanasana (Standing Forward Bend)\n12. Urdhva Dhanurasana (Wheel Pose or Upward-Facing Bow Pose)\n13. Virabhadrasana II (Warrior 2 Pose)\n\nPracticing at least 3 of these asanas every day can help improve bone density and promote overall well-being. Consistent yoga practice can strengthen muscles, improve balance, and enhance your quality of life. Stay committed to your yoga routine, and you'll find the strength and stability you need to manage osteoporosis. Embrace this journey with positivity and determination!"
+                ]
+        },
+        "During Pregnancy": {
+            "patterns": [
+                "which yoga poses are safe during pregnancy?",
+                "can yoga help during pregnancy?",
+                "what are the best asanas for pregnancy?",
+                "how can yoga assist during pregnancy?",
+                "are there specific yoga exercises for pregnant women?",
+                "what yoga practices are beneficial during pregnancy?",
+                "can certain poses alleviate pregnancy discomfort?",
+                "looking for yoga poses safe for pregnancy.",
+                "what yoga routines are good during pregnancy?",
+                "can you suggest yoga poses suitable for pregnancy?"
+            ],
+            "responses": [
+                    "During pregnancy, it's important to practice yoga safely. Here are some yoga asanas that are generally considered safe during pregnancy:\n1. Baddha Konasana (Bound Angle Pose)\n2. Sukhasana (Easy Pose)\n3. Utthita Trikonasana (Extended Triangle Pose)\n4. Padmasana (Lotus Pose)\n5. Virabhadrasana II (Warrior 2 Pose)\n6. Janu Sirsasana (Head-to-Knee Pose)\n\nThese asanas can help improve flexibility, strengthen muscles, and promote relaxation during pregnancy. However, it's essential to consult with a qualified prenatal yoga instructor and your healthcare provider before practicing yoga during pregnancy. Listen to your body, modify poses as needed, and avoid overexertion. Embrace this journey with care and mindfulness, and enjoy the benefits that yoga can bring to your pregnancy experience!"
+                ]
+        },
+        "Sciatica Relief": {
+            "patterns": [
+                "which yoga poses help with sciatica?",
+                "can yoga relieve sciatica pain?",
+                "what are the best asanas for sciatica relief?",
+                "how can yoga assist in managing sciatica?",
+                "are there specific yoga exercises for sciatica?",
+                "what yoga practices are beneficial for sciatica relief?",
+                "can certain poses alleviate sciatica symptoms?",
+                "looking for yoga poses to help with sciatica.",
+                "what yoga routines are good for sciatica relief?",
+                "can you suggest yoga poses that help with sciatica?"
+            ],
+            "responses": [
+                    "If you're seeking relief from sciatica, here are some yoga asanas that may help:\n1. Bharadvajasana (Bharadvaja’s Twist)\n2. Baddha Konasana (Bound Angle Pose)\n3. Bhujangasana (Cobra Pose)\n4. Ardha Pincha Mayurasana (Dolphin Pose)\n5. Adho Mukha Svanasana (Downward-Facing Dog Pose)\n6. Garudasana (Eagle Pose)\n7. Sukhasana (Easy Pose)\n8. Utthita Parsvakonasana (Extended Side Angle Pose)\n9. Utthita Trikonasana (Extended Triangle Pose)\n10. Agnistambhasana (Fire Log Pose)\n11. Ardha Matsyendrasana (Half Lord of the Fishes Pose)\n12. Ardha Chandrasana (Half Moon Pose)\n13. Ashta Chandrasana (High Lunge)\n14. Anjaneyasana (High Lunge, Crescent Variation)\n15. Padmasana (Lotus Pose)\n16. Anjaneyasana (Low Lunge)\n17. Marichyasana III (Pose Dedicated to the Sage Marichi III)\n18. Hanumanasana (Monkey Pose)\n19. Tadasana (Mountain Pose)\n20. Pasasana (Rope Pose)\n21. Supta Padangusthasana I (Reclining Hand-to-Big-Toe Pose I)\n22. Supta Virasana (Reclining Hero Pose)\n23. Parivrtta Parsvakonasana (Revolved Side Angle Pose)\n24. Parivrtta Trikonasana (Revolved Triangle Pose)\n\nIncorporating these asanas into your routine can help alleviate sciatica symptoms and improve your overall well-being. Remember to practice mindfully and listen to your body. With dedication and consistency, you can find relief and ease from sciatica discomfort. Stay positive and keep moving forward on your yoga journey!"
+                ]
+        }    
+}
